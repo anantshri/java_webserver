@@ -1,0 +1,20 @@
+html:text/html
+jpg:image/jpg
+jpeg:image/jpeg
+gif:image/gif
+bmp:image/bmp
+png:image/png
+htm:text/html
+txt:text/text
+exe:application/exe
+pdf:application/pdf
+zip:application/zip	
+xls:application/vnd.ms-excel
+avi:video/avi		
+mid:audio/midi		
+wav:audio/wav
+ppt: application/vnd.ms-powerpoint
+doc:application/msword
+jsx:text/html
+:text/html
+java:text/text
